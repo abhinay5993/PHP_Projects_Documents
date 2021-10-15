@@ -1,0 +1,1 @@
+pytest --html=./pyTestReporters/pytest_reportExe"`date`".html

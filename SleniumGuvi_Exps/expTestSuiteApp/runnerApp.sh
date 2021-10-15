@@ -1,0 +1,1 @@
+pytest /home/abhinay/Documents/VS_CodeWorkSpaceProj/SleniumGuvi_Exps/expTestSuiteApp/ -k app -v -s
