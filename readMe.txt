@@ -1,9 +1,4 @@
-Python_Basic_Assignments
-Python_Basic_Programming_Assignments
-Advanced_Python_Assignments
-Advanced_Python_Programming_Assignments
-
-welome sdet App QA Team.. data
+Hey!! There lets!!.. contribute together ... for OpenSource Community..
 
 Thanks,
 Abhinay
