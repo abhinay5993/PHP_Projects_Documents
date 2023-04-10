@@ -1,0 +1,21 @@
+pip install django-environ  --> to install package
+
+pip freeze > requirements.txt  --> to create copy a list of django dependencies.
+
+source <altest_env>/bin/activate --> after creating project environment to activate environment for project.
+
+models are just python way to represent sql tables.
+
+python3 manage.py showmigrations  --> to see the migration.
+
+python3 manage.py showmigrations <admin> --> to see migration for particular model
+
+python3 manage.py makemigrations <my_app2>  --> Crate a migration.
+
+Sequence of Migration commands :
+================================
+appname_model
+showmigrations
+makemigrations
+migrate
+showmigrations
