@@ -1,3 +1,4 @@
+https://github.com/isadev97/Learn-Django-Basics---PB-1/commit/07e2b51773f927b5850d47c301ff66c7dc7c7d51
 pip install django-environ  --> to install package
 
 pip freeze > requirements.txt  --> to create copy a list of django dependencies.

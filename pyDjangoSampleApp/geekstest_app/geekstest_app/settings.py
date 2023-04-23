@@ -48,7 +48,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'appmod1_login',
-    'appmod3_signup'
+    'appmod3_signup',
+    'djtodo_app'
 ]
 
 MIDDLEWARE = [
@@ -133,3 +134,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+SALT_KEY=env('PRIVATE_KEY')
+print('\nSalt key value of app from .env : ',SALT_KEY)
