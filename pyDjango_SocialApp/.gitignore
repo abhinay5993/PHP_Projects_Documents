@@ -1,0 +1,4 @@
+*.pyc
+socialapp_env
+db.sqlite3
+.env
