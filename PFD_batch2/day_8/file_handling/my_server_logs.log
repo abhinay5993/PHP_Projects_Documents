@@ -1,0 +1,3 @@
+WARNING:root:this may break
+ERROR:root:This is an error, fix it
+CRITICAL:root:This is a critical error, fix it

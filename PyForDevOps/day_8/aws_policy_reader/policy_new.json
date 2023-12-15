@@ -1,0 +1,1 @@
+{"Version": "2012-10-17", "Statement": [{"Sid": "VisualEditor0", "Effect": "Reject", "Action": "logs:CreateLogGroup", "Resource": "arn:aws:logs:eu-west-1:626072240565:*"}, {"Sid": "VisualEditor1", "Effect": "Allow", "Action": ["logs:CreateLogStream", "logs:PutLogEvents"], "Resource": "arn:aws:logs:eu-west-1:626072240565:log-group:/aws/lambda/test-1:*"}]}
