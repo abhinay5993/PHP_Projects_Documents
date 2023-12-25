@@ -11,6 +11,3 @@ def linear_search(list_of_env:list,key:str) -> bool:
             is_found = True
 
     return is_found
-
-if __name__ == "__main__":
-    print("hi I am from linear search wali file")
