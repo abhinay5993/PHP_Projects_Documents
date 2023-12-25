@@ -1,0 +1,20 @@
+WARNING:root:this may break
+ERROR:root:This is an error, fix it
+CRITICAL:root:This is a critical error, fix it
+27/08/2022 this may break
+27/08/2022 This is an error, fix it
+27/08/2022 This is a critical error, fix it
+27/08/2022 07:51:19 PM this is fine
+27/08/2022 07:51:19 PM this may break
+27/08/2022 07:51:19 PM This is an error, fix it
+27/08/2022 07:51:19 PM This is a critical error, fix it
+27/08/2022 07:52:27 PM this is fine
+27/08/2022 07:52:27 PM this may break
+27/08/2022 07:52:27 PM This is an error, fix it
+27/08/2022 07:52:27 PM This is a critical error, fix it
+27/08/2022 07:52:48 PM this may break
+27/08/2022 07:52:48 PM This is an error, fix it
+27/08/2022 07:52:48 PM This is a critical error, fix it
+27/08/2022 07:53:30 PM This is a critical error, fix it
+27/08/2022 07:54:21 PM This is a critical error, fix it
+27/08/2022 07:55:44 PM This is a critical error, fix it
