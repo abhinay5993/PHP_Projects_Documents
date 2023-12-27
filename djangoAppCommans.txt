@@ -20,3 +20,16 @@ showmigrations
 makemigrations
 migrate
 showmigrations
+
+install python vertual env:
+----------------------------
+pip3 install venv
+
+New Virtual Env Creation :
+---------------------------
+py -m venv <virtual-env-folder-name>
+
+activate the virtual Env:
+--------------------------
+source <virtual-env-folder-name>/Scripts/activate
+

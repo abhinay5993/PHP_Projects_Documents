@@ -1,0 +1,5 @@
+*.pyc
+*.cfg
+db.sqlite3
+.env
+*Env
