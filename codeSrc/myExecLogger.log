@@ -1,0 +1,30 @@
+28-12-2023 12:16:35 AM +0530;WARNING;I am giving worning!! with warning() 
+28-12-2023 12:16:35 AM +0530;INFO;Show use of existing functions from log info() : 
+28-12-2023 12:16:35 AM +0530;ERROR;This will be Error!!...please log using error() 
+28-12-2023 12:16:35 AM +0530;CRITICAL;I am very critical!! .. you have fix with .. critical()..
+28-12-2023 12:21:45 AM India Standard Time;WARNING;I am giving worning!! with warning() 
+28-12-2023 12:21:45 AM India Standard Time;ERROR;This will be Error!!...please log using error() 
+28-12-2023 12:21:45 AM India Standard Time;CRITICAL;I am very critical!! .. you have fix with .. critical()..
+28-12-2023 12:24:00 AM India Standard Time;WARNING;I am giving worning!! with warning() 
+28-12-2023 12:24:00 AM India Standard Time;ERROR;This will be Error!!...please log using error() 
+28-12-2023 12:24:00 AM India Standard Time;CRITICAL;I am very critical!! .. you have fix with .. critical()..
+28-12-2023 12:26:24 AM India Standard Time - WARNING : I am giving worning!! with warning() 
+28-12-2023 12:26:24 AM India Standard Time - ERROR : This will be Error!!...please log using error() 
+28-12-2023 12:26:24 AM India Standard Time - CRITICAL : I am very critical!! .. you have fix with .. critical()..
+28-12-2023 12:36:03 AM India Standard Time - WARNING : I am giving worning!! with warning() 
+28-12-2023 12:36:03 AM India Standard Time - ERROR : This will be Error!!...please log using error() 
+28-12-2023 12:36:03 AM India Standard Time - CRITICAL : I am very critical!! .. you have fix with .. critical()..
+28-12-2023 12:37:12 AM India Standard Time - WARNING : I am giving worning!! with warning() 
+28-12-2023 12:37:12 AM India Standard Time - ERROR : This will be Error!!...please log using error() 
+28-12-2023 12:37:12 AM India Standard Time - CRITICAL : I am very critical!! .. you have fix with .. critical()..
+28-12-2023 12:37:51 AM India Standard Time - WARNING : 
+28-12-2023 12:37:51 AM India Standard Time - ERROR : 
+28-12-2023 12:37:51 AM India Standard Time - CRITICAL : 
+28-12-2023 12:38:56 AM India Standard Time - WARNING : I am giving worning!! with warning() 
+28-12-2023 12:38:56 AM India Standard Time - ERROR : This will be Error!!...please log using error() 
+28-12-2023 12:38:56 AM India Standard Time - CRITICAL : I am very critical!! .. you have fix with .. critical()..
+28-12-2023 12:40:05 AM India Standard Time - WARNING : I am giving worning!! with warning() 
+28-12-2023 12:40:05 AM India Standard Time - INFO : Show use of existing str(dir(lgObj)) functions from log info() : 
+28-12-2023 12:40:05 AM India Standard Time - DEBUG : I am in debug() mode , please analyze it..
+28-12-2023 12:40:05 AM India Standard Time - ERROR : This will be Error!!...please log using error() 
+28-12-2023 12:40:05 AM India Standard Time - CRITICAL : I am very critical!! .. you have fix with .. critical()..
