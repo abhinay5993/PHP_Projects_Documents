@@ -11,3 +11,10 @@ strFileKeyName="local_exec_logData.log"
 #awsUtils.uploadFileToS3Buket(s3Obj,getBucketName,strFilePath,"aws_s3_uploads/"+strFileKeyName)
 
 awsUtils.showListOfAllS3BucketFiles(s3Obj,getBucketName)
+
+#New S3 bucket create call
+strNewBucketName=input("Enter your new s3 bucket you want to create : ")
+awsUtils.createBucketByUserDefName(s3Obj,strNewBucketName)
+print("\nList of All Buckets : ")
+print("\n************************")
+awsUtils.showAllS3Bukets(s3Obj)

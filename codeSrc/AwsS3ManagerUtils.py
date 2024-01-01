@@ -19,6 +19,14 @@ def showListOfAllS3BucketFiles(s3Obj,bucketName):
         print("\nList of Items : ",objItems.key)
 
 
+#s3 bucket creation using boto
+def createBucketByUserDefName(s3Obj,bucketName):
+    s3Obj.create_bucket(
+                        Bucket=bucketName,CreateBucketConfiguration={ 'LocationConstraint': 'us-east-2' }
+                        )
+    print(f"New bucket crated with '{bucketName}' this name.")
+
+
 #passing a single list/Tuple with *args
 def decorateConvertToUpper(passedFunc):
     def wrapper(*args):
